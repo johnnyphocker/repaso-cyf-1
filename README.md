@@ -13,6 +13,7 @@ code . - Abrir mi visual studio code
 
 Primero descargartelo y luego instala el repositorio usando npm install.
 
-## Lista de nombres
+## Nombres
 
-- Phoebe
+Pascal Zarzar
+Phoebe Wilckens
