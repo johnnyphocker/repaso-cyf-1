@@ -13,3 +13,7 @@ code . - Abrir mi visual studio code
 ## Pasos
 
 Primero descargartelo y luego instala el repositorio usando npm install.
+
+## Nombres
+
+Pascal Zarzar
