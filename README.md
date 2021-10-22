@@ -17,3 +17,4 @@ Primero descargartelo y luego instala el repositorio usando npm install.
 
 Pascal Zarzar
 Phoebe Wilckens
+Loreto Bravo
